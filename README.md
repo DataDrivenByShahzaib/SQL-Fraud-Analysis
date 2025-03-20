@@ -52,9 +52,7 @@ This SQL analysis provided valuable insights into **fraudulent transaction patte
 From a personal standpoint, this project deepened my understanding of **data-driven fraud detection** and the role of SQL in financial security. Uncovering these fraud patterns highlights vulnerabilities in digital transactions and demonstrates how **data analytics can help mitigate risks**.
 
 ---
-## 📌 Project Repository
-You can find the complete SQL scripts, queries, and insights in the GitHub repository:
-🔗 **[Fraud Detection SQL Analysis - GitHub](#)** (Add your GitHub repository link here)
+
 
 ---
 ## 🚀 Let's Connect!
